@@ -1,4 +1,4 @@
-#import "FlutterPcmSoundPlugin.h"
+#import "./include/flutter_pcm_sound/FlutterPcmSoundPlugin.h"
 #import <AudioToolbox/AudioToolbox.h>
 
 #if TARGET_OS_IOS
